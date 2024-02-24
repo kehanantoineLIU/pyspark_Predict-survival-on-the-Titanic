@@ -24,16 +24,16 @@ we use heatmap and stastic analyse to choose the variable we can use
 1. BinaryClassificationEvaluator => calculate Accuracy
 2. MulticlassClassificationEvaluator => calculate Precision & Recall
  ### 1. Logistic Regression
- Accuracy: 0.8077984817115254
- Precision: 0.7868224123991876
+ Accuracy: 0.8077984817115254   
+ Precision: 0.7868224123991876   
  Recall: 0.7884615384615385
  ### 2. Random Forest
- Accuracy: 0.8519355041094174
- Precision: 0.7922956824596169
+ Accuracy: 0.8519355041094174   
+ Precision: 0.7922956824596169   
  Recall: 0.7923076923076924
  ### 3. Gradient-Boosted Trees (GBT)
- Accuracy: 0.8389171215258171
- Precision: 0.7823265491904545
+ Accuracy: 0.8389171215258171   
+ Precision: 0.7823265491904545   
  Recall: 0.7846153846153846
 ### conclude
 Accuracy: The Random Forest model has the highest accuracy of 0.852.
